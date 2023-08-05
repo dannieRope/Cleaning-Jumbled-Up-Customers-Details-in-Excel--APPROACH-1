@@ -135,11 +135,26 @@ By following these steps, you will have a cleaned dataset with customer names an
    - Then, the LEFT() function takes the leftmost 3 characters from the extracted text, which will be " 30" in this case (including the leading space).
    - Finally, the TRIM() function removes any leading or trailing spaces, resulting in the extracted age value "17"
 
+![age](https://github.com/dannieRope/Cleaning-Jumbled-Up-Customers-Details-in-Excel--APPROACH-1/assets/132214828/96632a6e-6aed-4be6-9a56-460cf8f66e16)
+
 3. In column E (Gender), use the formula `=TRIM(TEXTAFTER(A2, "Gender"))` to extract the gender:
    - This formula uses the TEXTAFTER() function to extract the text after "Gender" in cell A2, which will be something like " Male" or " Female."
    - The TRIM() function removes any leading or trailing spaces, giving you the extracted gender, such as "Male" or "Female"
 
+![gender](https://github.com/dannieRope/Cleaning-Jumbled-Up-Customers-Details-in-Excel--APPROACH-1/assets/132214828/5cb6fdb4-683c-42b3-8644-802f0fe11c58)
+
+
 After applying these formulas to the entire columns D and E, you will have the age and gender information extracted and displayed accurately in the respective columns. The dataset is now cleaned and properly organized, ready for further analysis or use. Don't forget to save your cleaned dataset for future reference.
+
+Click here to access an easier method for cleaning the same dataset.
+
+   ![thanks-for-reading](https://github.com/dannieRope/Cleaning-Jumbled-Up-Customers-Details-in-Excel--APPROACH-1/assets/132214828/b0b81e12-f91d-4177-beba-e5e2badfc79c)
+
+  
+
+
+
+
 
 
 
