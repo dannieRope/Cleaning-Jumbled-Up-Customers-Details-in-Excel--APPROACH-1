@@ -5,7 +5,7 @@ Excel is a widely used tool for data cleaning, and it offers various functions a
 
 This article will showcase the step-by-step process I followed to clean up a messy dataset discovered on the internet.
 
-The disorganized dataset was downloaded from ForsightBI using the provided link. It contains customer details that are jumbled together in a single cell within the spreadsheet. The information includes customer names, addresses, ages, and genders.
+The disorganized dataset was downloaded from ForsightBI using via [link](https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/). It contains customer details that are jumbled together in a single cell within the spreadsheet. The information includes customer names, addresses, ages, and genders.
 
 ![THE dataset](https://github.com/dannieRope/Cleaning-Jumbled-Up-Customers-Details-in-Excel--APPROACH-1/assets/132214828/799790a7-6f7d-4f63-8577-a461298cd1f0)
 
