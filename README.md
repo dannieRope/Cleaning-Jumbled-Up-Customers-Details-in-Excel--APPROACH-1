@@ -146,7 +146,7 @@ By following these steps, you will have a cleaned dataset with customer names an
 
 After applying these formulas to the entire columns D and E, you will have the age and gender information extracted and displayed accurately in the respective columns. The dataset is now cleaned and properly organized, ready for further analysis or use. Don't forget to save your cleaned dataset for future reference.
 
-Click here to access an easier method for cleaning the same dataset.
+Click [here](https://github.com/dannieRope/Cleaning-Jumbled-Up-Customers-Details-in-Excel--APPROACH-2/blob/main/README.md) to access an easier method for cleaning the same dataset.
 
    ![thanks-for-reading](https://github.com/dannieRope/Cleaning-Jumbled-Up-Customers-Details-in-Excel--APPROACH-1/assets/132214828/b0b81e12-f91d-4177-beba-e5e2badfc79c)
 
